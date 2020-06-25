@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirigota/Node.git"
+  },
+  "author": "NGC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chirigota/Node/issues"
+  },
+  "homepage": "https://github.com/chirigota/Node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
