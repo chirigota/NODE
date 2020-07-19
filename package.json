@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/chirigota/Node#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.0"
   }
 }

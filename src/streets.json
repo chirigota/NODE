@@ -1,0 +1,4462 @@
+[
+	{
+		"COD_VIA": 400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "ABADESA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 6,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 1500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ABEL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 4400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ACONITO",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": 4,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 4600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ACUEDUCTO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 4900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ADELA BALBOA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 5900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ADRIAN PULIDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 7300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "AGAVE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 33,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 7700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "AGRACEJO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 9200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "AGUILEÑAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 11800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "AILANTO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 41,
+		"PAR_MIN": 12,
+		"PAR_MAX": 54
+	},
+	{
+		"COD_VIA": 16200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALBENDIEGO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 16800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALBERDI",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 63,
+		"PAR_MIN": 4,
+		"PAR_MAX": 52
+	},
+	{
+		"COD_VIA": 16900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALBERDI (PARTICULAR)",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 16900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CROTON",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 20900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALCOLEA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 4,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 23900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALEJANDRO RODRIGUEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 36
+	},
+	{
+		"COD_VIA": 24500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALEMANIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 25100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "ALFALFA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 49,
+		"PAR_MIN": 6,
+		"PAR_MAX": 38
+	},
+	{
+		"COD_VIA": 28900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "ALGODONALES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 73,
+		"PAR_MIN": 2,
+		"PAR_MAX": 72
+	},
+	{
+		"COD_VIA": 30200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ALIGUSTRE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 55,
+		"PAR_MIN": 2,
+		"PAR_MAX": 38
+	},
+	{
+		"COD_VIA": 31600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALMANSA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 59,
+		"PAR_MIN": 2,
+		"PAR_MAX": 70
+	},
+	{
+		"COD_VIA": 33800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "ALMORTAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 40
+	},
+	{
+		"COD_VIA": 35000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALONSO CASTRILLO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 21,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 35500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALONSO NUÑEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 38300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALVARADO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 38400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALVAREZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 40500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "AMALIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 41900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "AMBROSIO VALLEJO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 44200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANA MARIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 51,
+		"PAR_MIN": 4,
+		"PAR_MAX": 48
+	},
+	{
+		"COD_VIA": 45000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANASTASIO HERRERO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 46200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANDREA PUECH",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 49100,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANGEL CARBAJO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 51100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANGEL PUECH",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 52800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANIBAL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 55200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANTONIA DOMINGUEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 56000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANTONIO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 58200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANTONIO GOMEZ GALIANA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 58300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANTONIO GONZALEZ ECHARTE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 59000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ANTONIO LANZUELA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 41,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 370895,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ANTURIO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 64000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "AQUILINO DOMINGUEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 64500,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ARAGON",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 918,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ARANDANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 65400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ARANJUEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 66300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "ARAUCARIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 31,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 73800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ARROYO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 73900,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ARROYO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 4,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 78300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "ARTISTAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 61,
+		"PAR_MIN": 2,
+		"PAR_MAX": 50
+	},
+	{
+		"COD_VIA": 79950,
+		"VIA_CLASE": "AVENIDA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ASTURIAS",
+		"IMPAR_MIN": 9,
+		"IMPAR_MAX": 71,
+		"PAR_MIN": 2,
+		"PAR_MAX": 74
+	},
+	{
+		"COD_VIA": 80100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ASUNCION CASTELL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 83450,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "AVELINO MONTERO RIOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 42
+	},
+	{
+		"COD_VIA": 201600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "AVIADOR ZORITA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 59,
+		"PAR_MIN": 2,
+		"PAR_MAX": 50
+	},
+	{
+		"COD_VIA": 84800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "AVILA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 84800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "BEATO CLAVE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 85900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "AZAHAR",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 86600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "AZUCENAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 101,
+		"PAR_MIN": 2,
+		"PAR_MAX": 112
+	},
+	{
+		"COD_VIA": 89500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "BALSAMINAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 91300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BARACALDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 46
+	},
+	{
+		"COD_VIA": 91300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BARACALDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 46
+	},
+	{
+		"COD_VIA": 93300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "BARDALA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 31,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 93800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "BARON DEL CASTILLO DE CHIREL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 95300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BASCONES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 21,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 95750,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "BASILICA",
+		"IMPAR_MIN": 15,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 12,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 84800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "AVILA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 84800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "BEATO CLAVE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 98600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BEIRE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 53,
+		"PAR_MIN": 2,
+		"PAR_MAX": 54
+	},
+	{
+		"COD_VIA": 1912,
+		"VIA_CLASE": "PASAJE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "BELLAS VISTAS",
+		"IMPAR_MIN": 5,
+		"IMPAR_MAX": 59,
+		"PAR_MIN": 6,
+		"PAR_MAX": 60
+	},
+	{
+		"COD_VIA": 100000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BELLVER",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 36
+	},
+	{
+		"COD_VIA": 100100,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BELLVER",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 103700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BENJAMIN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 105600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BERRUGUETE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 75,
+		"PAR_MIN": 2,
+		"PAR_MAX": 90
+	},
+	{
+		"COD_VIA": 105700,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BERRUGUETE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 107300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BIOTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 114200,
+		"VIA_CLASE": "AVENIDA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BRASIL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 33,
+		"PAR_MIN": 2,
+		"PAR_MAX": 44
+    },
+        {
+		"COD_VIA": 114600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BRAVO MURILLO",
+		"IMPAR_MIN": 101,
+		"IMPAR_MAX": 379,
+		"PAR_MIN": 96,
+		"PAR_MAX": 384
+	},
+	{
+		"COD_VIA": 114600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BRAVO MURILLO",
+		"IMPAR_MIN": 101,
+		"IMPAR_MAX": 379,
+		"PAR_MIN": 96,
+		"PAR_MAX": 384
+	},
+	{
+		"COD_VIA": 116200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BRUNO AYLLON",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 118500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BURGOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 119300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BUSTARVIEJO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 119400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "BUSTILLO DEL ORO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 31,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 507500,
+		"VIA_CLASE": "GLORIETA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CAAMAÑO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 4,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 507500,
+		"VIA_CLASE": "GLORIETA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MIGUEL RUBIALES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 4,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 122705,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CACTUS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 57,
+		"PAR_MIN": 2,
+		"PAR_MAX": 46
+	},
+	{
+		"COD_VIA": 122705,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CACTUS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 57,
+		"PAR_MIN": 2,
+		"PAR_MAX": 46
+	},
+	{
+		"COD_VIA": 125600,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CALICANTO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 129700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CAMPO REAL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 31000240,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CANAL DE ISABEL II",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 905551,
+		"VIA_CLASE": "CARRETERA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CANTO BLANCO",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 134800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CANTUESO",
+		"IMPAR_MIN": 3,
+		"IMPAR_MAX": 105,
+		"PAR_MIN": 2,
+		"PAR_MAX": 116
+	},
+	{
+		"COD_VIA": 135600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CAÑAVERAL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 105,
+		"PAR_MIN": 2,
+		"PAR_MAX": 102
+	},
+	{
+		"COD_VIA": 137000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CAPITAN BLANCO ARGIBAY",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 173,
+		"PAR_MIN": 2,
+		"PAR_MAX": 210
+	},
+	{
+		"COD_VIA": 143700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CARLOS LATORRE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 144800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CARLOS RUBIO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 145250,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CARLOS TRIAS BERTRAN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 146400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CARMEN MONTOYA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 146700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CARMEN PORTONES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 146700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CARMEN PORTONES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 147400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CARNICER",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 21,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 147900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "CAROLINAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 41,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 153600,
+		"VIA_CLASE": "PASEO",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "CASTELLANA",
+		"IMPAR_MIN": 69,
+		"IMPAR_MAX": 255,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 153600,
+		"VIA_CLASE": "PASEO",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "CASTELLANA",
+		"IMPAR_MIN": 69,
+		"IMPAR_MAX": 255,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 153600,
+		"VIA_CLASE": "PASEO",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "CASTELLANA",
+		"IMPAR_MIN": 69,
+		"IMPAR_MAX": 255,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 154200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CASTILLA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 49,
+		"PAR_MIN": 2,
+		"PAR_MAX": 62
+	},
+	{
+		"COD_VIA": 154500,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CASTILLA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 154500,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CASTILLA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 154600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CASTILLEJOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 155700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CASTILLO PIÑEIRO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 160500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "CEDROS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 95,
+		"PAR_MIN": 2,
+		"PAR_MAX": 116
+	},
+	{
+		"COD_VIA": 160800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CEFERINO RODRIGUEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 162400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CENICIENTOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 168500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CEUTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 31,
+		"PAR_MIN": 2,
+		"PAR_MAX": 36
+	},
+	{
+		"COD_VIA": 1899,
+		"VIA_CLASE": "CAMINO",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CHORRILLO",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 231000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "CHUMBERA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 168700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CICERON",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 172900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "CLAVELINAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 207000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CONDE DE VALLELLANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 4,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 206600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CONDE DEL SERRALLO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 207800,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "CONDESA DE GAVIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 216800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "COSMOS",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 2528,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "COSTA VERDE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 33,
+		"PAR_MIN": 8,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 218100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CRISANTEMO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 16900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ALBERDI (PARTICULAR)",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 16900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "CROTON",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 223500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "CUATRO AMIGOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 223600,
+		"VIA_CLASE": "GLORIETA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CUATRO CAMINOS",
+		"IMPAR_MIN": 5,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 223600,
+		"VIA_CLASE": "GLORIETA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CUATRO CAMINOS",
+		"IMPAR_MIN": 5,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 225000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CUENCA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 226100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "CUEVAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 49,
+		"PAR_MIN": 2,
+		"PAR_MAX": 50
+	},
+	{
+		"COD_VIA": 227600,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CUZCO",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 234500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "DELFIN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 236300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "",
+		"VIA_NOMBRE": "DIAGONAL",
+		"IMPAR_MIN": 7,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 16,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 238800,
+		"VIA_CLASE": "PASEO",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "DIRECCION",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 329,
+		"PAR_MIN": 2,
+		"PAR_MAX": 380
+	},
+	{
+		"COD_VIA": 238800,
+		"VIA_CLASE": "PASEO",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "DIRECCION",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 329,
+		"PAR_MIN": 2,
+		"PAR_MAX": 380
+	},
+	{
+		"COD_VIA": 238800,
+		"VIA_CLASE": "PASEO",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "DIRECCION",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 329,
+		"PAR_MIN": 2,
+		"PAR_MAX": 380
+	},
+	{
+		"COD_VIA": 239200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "DIVINO REDENTOR",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 67,
+		"PAR_MIN": 2,
+		"PAR_MAX": 68
+	},
+	{
+		"COD_VIA": 241500,
+		"VIA_CLASE": "AVENIDA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "DOCTOR FEDERICO RUBIO Y GALI",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 53,
+		"PAR_MIN": 2,
+		"PAR_MAX": 78
+	},
+	{
+		"COD_VIA": 243200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "DOCTOR MARIANI",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 244800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "DOCTOR SANTERO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 31,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 245700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "DOLORES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 246100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "DOLORES BEJARANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 248600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "DON QUIJOTE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 49,
+		"PAR_MIN": 2,
+		"PAR_MAX": 56
+	},
+	{
+		"COD_VIA": 249200,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "DONOSO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 252700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "DULCINEA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 69,
+		"PAR_MIN": 2,
+		"PAR_MAX": 54
+	},
+	{
+		"COD_VIA": 331600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "EDGAR NEVILLE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 256200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "EDUARDO ADARO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 512500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "EL MOLAR",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 262600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "EMILIA",
+		"IMPAR_MIN": 17,
+		"IMPAR_MAX": 57,
+		"PAR_MIN": 4,
+		"PAR_MAX": 56
+	},
+	{
+		"COD_VIA": 266700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ENRIQUE AGUILAR",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 4,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 268800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ENRIQUE I",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 267900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ENRIQUE RUIZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 271400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ESCARAMUJO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 275100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ESPERANZA SANCHEZ CARRASCOSA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 61,
+		"PAR_MIN": 2,
+		"PAR_MAX": 64
+	},
+	{
+		"COD_VIA": 279000,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ESTE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 279750,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ESTEBANEZ CALDERON",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 282600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "EUGENIO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 289900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FELIPE MORA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 291200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FELIX PORTONES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 291500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FERELUZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 57,
+		"PAR_MIN": 2,
+		"PAR_MAX": 44
+	},
+	{
+		"COD_VIA": 291900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FERMIN IZQUIERDO",
+		"IMPAR_MIN": 3,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 294800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FERNANDO OSSORIO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 297900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "FLOR DE LIS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 331800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FORTUNATA Y JACINTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 31,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 301600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCISCA CALONGE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 301700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCISCA CONDE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 4,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 303000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCISCO BALSEIRO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 303500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCISCO CABO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 304300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCISCO GERVAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 21,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 306400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCISCO MEDRANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 309400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCISCO SALAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 43,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 311100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCOS RODRIGUEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 67,
+		"PAR_MIN": 2,
+		"PAR_MAX": 90
+	},
+	{
+		"COD_VIA": 311100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRANCOS RODRIGUEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 67,
+		"PAR_MIN": 2,
+		"PAR_MAX": 90
+	},
+	{
+		"COD_VIA": 311850,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FRAY JUNIPERO SERRA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 43,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 318500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "FULGENCIO DE MIGUEL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 319500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GABRIEL DIEZ",
+		"IMPAR_MIN": 3,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 320100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GABRIEL PORTADALES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 4,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 323900,
+		"VIA_CLASE": "CALLEJÑN",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GARCIA CEA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 323800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GARCI-NUÑO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 43,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 326100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "GARELLANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 328200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "GENCIANA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 61,
+		"PAR_MIN": 2,
+		"PAR_MAX": 48
+	},
+	{
+		"COD_VIA": 329100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "GENERAL CABRERA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 330800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "GENERAL MARGALLO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 332100,
+		"VIA_CLASE": "AVENIDA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "GENERAL PERON",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 31,
+		"PAR_MIN": 2,
+		"PAR_MAX": 44
+	},
+	{
+		"COD_VIA": 332200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "GENERAL PINTOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 63,
+		"PAR_MIN": 8,
+		"PAR_MAX": 66
+	},
+	{
+		"COD_VIA": 332600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "GENERAL RAMIREZ DE MADRID",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 37,
+		"PAR_MIN": 2,
+		"PAR_MAX": 50
+	},
+	{
+		"COD_VIA": 332600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "GENERAL RAMIREZ DE MADRID",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 37,
+		"PAR_MIN": 2,
+		"PAR_MAX": 50
+	},
+	{
+		"COD_VIA": 335200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "GERANIOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 49,
+		"PAR_MIN": 2,
+		"PAR_MAX": 50
+	},
+	{
+		"COD_VIA": 337600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "GLADIOLO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 305700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "GLOXINIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 338400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GOIRI",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 340600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GONZALEZ SOLA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 21,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 341100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GONZALO HERRERO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 341400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GONZALO SANDINO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 21,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 347100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GUADALIX",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 350000,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GUILHOU",
+		"IMPAR_MIN": 5,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 4,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 350800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "GUINDOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 33,
+		"PAR_MIN": 2,
+		"PAR_MAX": 38
+	},
+	{
+		"COD_VIA": 351000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "GUIPUZCOA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 541700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "GUZMANIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 354600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "HELIOTROPO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 355700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "HERMANO GARATE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 356000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "HERMANOS DE ANDRES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 360700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "HERNANI",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 79,
+		"PAR_MIN": 2,
+		"PAR_MAX": 70
+	},
+	{
+		"COD_VIA": 361400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "HERRERA",
+		"IMPAR_MIN": 3,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 361500,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "HERRERA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 362300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "HIERBABUENA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 63,
+		"PAR_MIN": 2,
+		"PAR_MAX": 54
+	},
+	{
+		"COD_VIA": 362300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "HIERBABUENA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 63,
+		"PAR_MIN": 2,
+		"PAR_MAX": 54
+	},
+	{
+		"COD_VIA": 368500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "HUERTA DEL OBISPO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 368600,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "HUERTA DEL OBISPO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 369100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "HUESCA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 373400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "INFANTA MERCEDES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 115,
+		"PAR_MIN": 4,
+		"PAR_MAX": 100
+	},
+	{
+		"COD_VIA": 373400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "INFANTA MERCEDES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 115,
+		"PAR_MIN": 4,
+		"PAR_MAX": 100
+	},
+	{
+		"COD_VIA": 373500,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "INFANTA MERCEDES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 378100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ISABEL SERRANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 380700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "ISLA DE CORCEGA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 381400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "ISLA DE GOMERA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 385400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "ISLAS GILBERT",
+		"IMPAR_MIN": 3,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 387100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ISTURIZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 388700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JAEN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 41,
+		"PAR_MIN": 2,
+		"PAR_MAX": 46
+	},
+	{
+		"COD_VIA": 389600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "JARAMAGOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 391700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JERONIMA LLORENTE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 77,
+		"PAR_MIN": 2,
+		"PAR_MAX": 78
+	},
+	{
+		"COD_VIA": 394900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "JIRAFA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 395000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JOAQUIN ARJONA",
+		"IMPAR_MIN": 15,
+		"IMPAR_MAX": 37,
+		"PAR_MIN": 8,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 395400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JOAQUIN DICENTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 61,
+		"PAR_MIN": 2,
+		"PAR_MAX": 38
+	},
+	{
+		"COD_VIA": 395600,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JOAQUIN DICENTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 397600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JOSE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 399900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JOSE CALVO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 400350,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JOSE CASTAN TOBEÑAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 31001634,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JOSE FRANCISCO DE ITURZAETA E IZAGUIRRE",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 403500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JOSE MARIA DE CASTRO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 412200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JUAN DE LA ENCINA",
+		"IMPAR_MIN": 9,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 6,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 416600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JUAN DE OLIAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 49,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 418100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JUAN DEL RISCO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 41,
+		"PAR_MIN": 2,
+		"PAR_MAX": 52
+	},
+	{
+		"COD_VIA": 416800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JUAN PANTOJA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 417800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JUAN PRADILLO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 333900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JULIAN BESTEIRO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 37,
+		"PAR_MIN": 2,
+		"PAR_MAX": 38
+	},
+	{
+		"COD_VIA": 333900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JULIAN BESTEIRO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 37,
+		"PAR_MIN": 2,
+		"PAR_MAX": 38
+	},
+	{
+		"COD_VIA": 466800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "JULIAN ZUGAZAGOITIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 216300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LA CORUÑA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 37,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 624750,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LA RABIDA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 427700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "LADERA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 326000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LAS GARDENIAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 494600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LAS MATAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 37,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 531000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LAS NAVAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 432500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LAZAGA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 432500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LAZAGA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 434998,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "LEÑEROS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 41,
+		"PAR_MIN": 2,
+		"PAR_MAX": 62
+	},
+	{
+		"COD_VIA": 436500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LERIDA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 103,
+		"PAR_MIN": 4,
+		"PAR_MAX": 98
+	},
+	{
+		"COD_VIA": 436500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LERIDA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 103,
+		"PAR_MIN": 4,
+		"PAR_MAX": 98
+	},
+	{
+		"COD_VIA": 438300,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LIMA",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 438500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "LIMONERO",
+		"IMPAR_MIN": 7,
+		"IMPAR_MAX": 49,
+		"PAR_MIN": 12,
+		"PAR_MAX": 42
+	},
+	{
+		"COD_VIA": 439000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "LINO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 440770,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LOPE DE HARO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 38
+	},
+	{
+		"COD_VIA": 442000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LORENZA CORREA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 4,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 442100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LORENZANA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 513300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LOS MOLINOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 541800,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LOS NUEVE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 443000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "LOTO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 446000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LUIS ESTEBAN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 447000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LUIS MISSON",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 448000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "LUIS PORTONES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 31001349,
+		"VIA_CLASE": "AUTOVÑA",
+		"VIA_PAR": "",
+		"VIA_NOMBRE": "M-30",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 1194,
+		"VIA_CLASE": "PASAJE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "MAESTROS LADRILLEROS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 455400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MAGDALENA DIEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 455900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "MAGNOLIAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 105,
+		"PAR_MIN": 2,
+		"PAR_MAX": 120
+	},
+	{
+		"COD_VIA": 458300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "MANCHEGOS",
+		"IMPAR_MIN": 5,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 8,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 459400,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MANOLETE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 463650,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MANUEL GOMEZ-MORENO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 464800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MANUEL LUNA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 33,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 465000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MANUEL MARCHAMALO",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 467800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MANUELA MINGUEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 471300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARCELINA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 41,
+		"PAR_MIN": 2,
+		"PAR_MAX": 42
+	},
+	{
+		"COD_VIA": 472900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "MARGARITAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 65,
+		"PAR_MIN": 2,
+		"PAR_MAX": 56
+	},
+	{
+		"COD_VIA": 475400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIA IGNACIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 476200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIA JUANA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 37,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 476300,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIA JUANA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 476700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIA LUISA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 21,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 478300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIA PEDRAZA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 48
+	},
+	{
+		"COD_VIA": 479800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIA ZAYAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 479900,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIA ZAYAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 480200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIANELA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 481000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIANO FERNANDEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 481800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARIANO SERRANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 484500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MARQUES DE CORTINA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 484800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MARQUES DE ENCINARES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 485400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MARQUES DE LEIS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 488000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MARQUES DE VIANA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 103,
+		"PAR_MIN": 2,
+		"PAR_MAX": 84
+	},
+	{
+		"COD_VIA": 488000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MARQUES DE VIANA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 103,
+		"PAR_MIN": 2,
+		"PAR_MAX": 84
+	},
+	{
+		"COD_VIA": 490600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARTINEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 491400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MARTINEZ PAGE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 6,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 492600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "MARTIRES DE LA VENTILLA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 109,
+		"PAR_MIN": 2,
+		"PAR_MAX": 126
+	},
+	{
+		"COD_VIA": 492500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "MARTIRES DE PARACUELLOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 493100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MASEDA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 493700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MATADERO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 328800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MATILDE LANDA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 55,
+		"PAR_MIN": 2,
+		"PAR_MAX": 98
+	},
+	{
+		"COD_VIA": 328900,
+		"VIA_CLASE": "ESCALINATA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MATILDE LANDA",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 503100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "MERCEDES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 507500,
+		"VIA_CLASE": "GLORIETA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "CAAMAÑO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 4,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 507500,
+		"VIA_CLASE": "GLORIETA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MIGUEL RUBIALES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 4,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 509600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "MIOSOTIS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 73,
+		"PAR_MIN": 2,
+		"PAR_MAX": 80
+	},
+	{
+		"COD_VIA": 511400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MIRTO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 512600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MOLINA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 63,
+		"PAR_MIN": 2,
+		"PAR_MAX": 52
+	},
+	{
+		"COD_VIA": 437200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MONASTERIO DE LEYRE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 520400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MONTEVIDEO",
+		"IMPAR_MIN": 29,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 28,
+		"PAR_MAX": 36
+	},
+	{
+		"COD_VIA": 521000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MONTOYA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 61,
+		"PAR_MIN": 2,
+		"PAR_MAX": 54
+	},
+	{
+		"COD_VIA": 521300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "MOQUETAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 521900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MORANDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 525400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "MULLER",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 77,
+		"PAR_MIN": 2,
+		"PAR_MAX": 68
+	},
+	{
+		"COD_VIA": 525500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "MUNDILLO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 527600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "NADOR",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 528300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "NARANJO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 53,
+		"PAR_MIN": 2,
+		"PAR_MAX": 46
+	},
+	{
+		"COD_VIA": 529000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "NARDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 529100,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "NARDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 530800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "NAVARRA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 532500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "NENUFAR",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 40
+	},
+	{
+		"COD_VIA": 533200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "NICOLAS AROCENA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 535300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "NOGAL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 536200,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "NORTE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 538100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "NUESTRA SEÑORA DE LOS DOLORES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 538000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "NUESTRA SEÑORA DEL CARMEN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 59,
+		"PAR_MIN": 4,
+		"PAR_MAX": 54
+	},
+	{
+		"COD_VIA": 542400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "NUMANCIA",
+		"IMPAR_MIN": 13,
+		"IMPAR_MAX": 63,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 545000,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "OESTE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 545100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "OFELIA NIETO",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": 2,
+		"PAR_MAX": 66
+	},
+	{
+		"COD_VIA": 545900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "OLITE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 45,
+		"PAR_MIN": 2,
+		"PAR_MAX": 52
+	},
+	{
+		"COD_VIA": 31000333,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "ONCE VIGAS",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 548500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "OÑATE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 549900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "ORDEN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 550000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ORDOÑEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 550500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ORENSE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 87,
+		"PAR_MIN": 2,
+		"PAR_MAX": 70
+	},
+	{
+		"COD_VIA": 550500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ORENSE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 87,
+		"PAR_MIN": 2,
+		"PAR_MAX": 70
+	},
+	{
+		"COD_VIA": 552000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "ORQUIDEAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 553200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "OTAMENDI",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 553900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "OUDRID",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 554000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "OVIEDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 554550,
+		"VIA_CLASE": "AVENIDA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PABLO IGLESIAS",
+		"IMPAR_MIN": 69,
+		"IMPAR_MAX": 69,
+		"PAR_MIN": 28,
+		"PAR_MAX": 98
+	},
+	{
+		"COD_VIA": 555150,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PABLO RUIZ PICASSO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 557200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "PADRE RUBIO",
+		"IMPAR_MIN": 3,
+		"IMPAR_MAX": 79,
+		"PAR_MIN": 2,
+		"PAR_MAX": 92
+	},
+	{
+		"COD_VIA": 558000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "PALACIOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 558700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PALENCIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 63,
+		"PAR_MIN": 2,
+		"PAR_MAX": 52
+	},
+	{
+		"COD_VIA": 559200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "PALMERA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 45,
+		"PAR_MIN": 2,
+		"PAR_MAX": 74
+	},
+	{
+		"COD_VIA": 560700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PAMPLONA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 63,
+		"PAR_MIN": 2,
+		"PAR_MAX": 48
+	},
+	{
+		"COD_VIA": 561500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PANDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 561600,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PANDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 561900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "PANIZO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 71,
+		"PAR_MIN": 2,
+		"PAR_MAX": 68
+	},
+	{
+		"COD_VIA": 563500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PARAVICINO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 571800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PEDRO BARREDA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 8,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 573800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PEDRO MEDRANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 729,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PEDRO MORENO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 574600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PEDRO ROGEL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 575000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PEDRO TEIXEIRA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 575100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PEDRO TEZANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 31,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 575400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PEDRO VILLAR",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 576800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "PENSAMIENTO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 595200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PINOS ALTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 123,
+		"PAR_MIN": 2,
+		"PAR_MAX": 132
+	},
+	{
+		"COD_VIA": 595200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PINOS ALTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 123,
+		"PAR_MIN": 2,
+		"PAR_MAX": 132
+	},
+	{
+		"COD_VIA": 595300,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PINOS ALTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 595400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PINOS BAJA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 95,
+		"PAR_MIN": 18,
+		"PAR_MAX": 126
+	},
+	{
+		"COD_VIA": 595400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PINOS BAJA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 95,
+		"PAR_MIN": 18,
+		"PAR_MAX": 126
+	},
+	{
+		"COD_VIA": 595850,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "PINTOR JUAN GRIS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 598700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "PLATANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 137400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "POETA JOAN MARAGALL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 65,
+		"PAR_MIN": 2,
+		"PAR_MAX": 66
+	},
+	{
+		"COD_VIA": 137400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "POETA JOAN MARAGALL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 65,
+		"PAR_MIN": 2,
+		"PAR_MAX": 66
+	},
+	{
+		"COD_VIA": 31001371,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "POETA LEOPOLDO DE LUIS",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 602900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "PORFIRIO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 608400,
+		"VIA_CLASE": "AVENIDA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "PRESIDENTE CARMONA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 625000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "RAFAEL CEBALLOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 2
+	},
+	{
+		"COD_VIA": 625500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "RAFAEL HERRERO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 627700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "RAIMUNDO FERNANDEZ VILLAVERDE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 69,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 635200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "REINA MERCEDES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 26
+	},
+	{
+		"COD_VIA": 635300,
+		"VIA_CLASE": "AVENIDA",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "REINA VICTORIA",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 137300,
+		"VIA_CLASE": "PASAJE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "REMONTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 636350,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "REMONTA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 638900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "REYES AIZQUIBEL",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": 12,
+		"PAR_MAX": 42
+	},
+	{
+		"COD_VIA": 640500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "RICARDO GUTIERREZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 642300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "RITA LUNA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 642700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "ROBLE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 33,
+		"PAR_MIN": 10,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 643000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROBLEDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 31001360,
+		"VIA_CLASE": "GLORIETA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROCIO DURCAL",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 31001360,
+		"VIA_CLASE": "GLORIETA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROCIO DURCAL",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 646500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROMAN ALONSO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 648500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROSA DE SILVA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 648200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROSA MENENDEZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 649200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROSARIO PINO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 649300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROSARIO ROMERO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 649400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ROSENDO CONDE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 4,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 651300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "RUIZ PALACIOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 43,
+		"PAR_MIN": 2,
+		"PAR_MAX": 38
+	},
+	{
+		"COD_VIA": 654300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAHAGUN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 654700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SALAMANCA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 27,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 657800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "SALVIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 658900,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN AMARO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 660100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN ANTONIO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 660600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN AQUILINO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 34
+	},
+	{
+		"COD_VIA": 661400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN BENITO",
+		"IMPAR_MIN": 3,
+		"IMPAR_MAX": 61,
+		"PAR_MIN": 4,
+		"PAR_MAX": 72
+	},
+	{
+		"COD_VIA": 666200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN ENRIQUE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 667600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN FELIPE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 334200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN GERMAN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 57,
+		"PAR_MIN": 4,
+		"PAR_MAX": 76
+	},
+	{
+		"COD_VIA": 334200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN GERMAN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 57,
+		"PAR_MIN": 4,
+		"PAR_MAX": 76
+	},
+	{
+		"COD_VIA": 670200,
+		"VIA_CLASE": "PLAZA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN GERMAN",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 676300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN LEOPOLDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 71,
+		"PAR_MIN": 2,
+		"PAR_MAX": 78
+	},
+	{
+		"COD_VIA": 683700,
+		"VIA_CLASE": "CALLEJÑN",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN RAFAEL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 683900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN RAIMUNDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 77,
+		"PAR_MIN": 2,
+		"PAR_MAX": 70
+	},
+	{
+		"COD_VIA": 684500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN ROGELIO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 687100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SAN VALERIANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 29,
+		"PAR_MIN": 2,
+		"PAR_MAX": 30
+	},
+	{
+		"COD_VIA": 694700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SANTA EULALIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 24
+	},
+	{
+		"COD_VIA": 694800,
+		"VIA_CLASE": "CALLEJÑN",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SANTA EULALIA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 3,
+		"PAR_MIN": 2,
+		"PAR_MAX": 4
+	},
+	{
+		"COD_VIA": 696100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SANTA JULIANA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 73,
+		"PAR_MIN": 2,
+		"PAR_MAX": 62
+	},
+	{
+		"COD_VIA": 697800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SANTA MATILDE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 699400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SANTA VALENTINA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 700800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SANTIAGO CORDERO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 22
+	},
+	{
+		"COD_VIA": 700900,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SANTIAGO CORDERO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 13,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 705100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "SAUCO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 21,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 709900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "SERRALLO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 33,
+		"PAR_MIN": 2,
+		"PAR_MAX": 52
+	},
+	{
+		"COD_VIA": 710000,
+		"VIA_CLASE": "TRAVESÑA",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "SERRALLO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 5,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 714700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "SIERRA BULLONES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 722900,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SIMANCAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 723600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SINESIO DELGADO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 723600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SINESIO DELGADO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 725000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "SOFORA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 28
+	},
+	{
+		"COD_VIA": 728100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SOR ANGELA DE LA CRUZ",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 43,
+		"PAR_MIN": 2,
+		"PAR_MAX": 40
+	},
+	{
+		"COD_VIA": 728400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "SORGO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 75,
+		"PAR_MIN": 2,
+		"PAR_MAX": 80
+	},
+	{
+		"COD_VIA": 728600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "SOROLLA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 6
+	},
+	{
+		"COD_VIA": 731800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TABLADA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 47,
+		"PAR_MIN": 2,
+		"PAR_MAX": 58
+	},
+	{
+		"COD_VIA": 738700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TENERIFE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 47,
+		"PAR_MIN": 2,
+		"PAR_MAX": 64
+	},
+	{
+		"COD_VIA": 740200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TERESITA GONZALEZ QUEVEDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 740200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TERESITA GONZALEZ QUEVEDO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 15,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 740600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TERUEL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 43,
+		"PAR_MIN": 2,
+		"PAR_MAX": 46
+	},
+	{
+		"COD_VIA": 743400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TIZIANO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 18
+	},
+	{
+		"COD_VIA": 745700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TOPETE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 45,
+		"PAR_MIN": 2,
+		"PAR_MAX": 42
+	},
+	{
+		"COD_VIA": 749100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TORRES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 749400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TORRIJOS",
+		"IMPAR_MIN": 3,
+		"IMPAR_MAX": 17,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 751700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "TREBOL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 756800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "TUDELILLA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	},
+	{
+		"COD_VIA": 759000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ULPIANA BENITO",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 1,
+		"PAR_MIN": 2,
+		"PAR_MAX": 10
+	},
+	{
+		"COD_VIA": 777600,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "VEZA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 47,
+		"PAR_MIN": 4,
+		"PAR_MAX": 40
+	},
+	{
+		"COD_VIA": 778000,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "VIA LIMITE",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 123,
+		"PAR_MIN": 10,
+		"PAR_MAX": 16
+	},
+	{
+		"COD_VIA": 780550,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "VICENTE GACEO",
+		"IMPAR_MIN": 17,
+		"IMPAR_MAX": 23,
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 785200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "VILLAAMIL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 75,
+		"PAR_MIN": 2,
+		"PAR_MAX": 90
+	},
+	{
+		"COD_VIA": 785200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "VILLAAMIL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 75,
+		"PAR_MIN": 2,
+		"PAR_MAX": 90
+	},
+	{
+		"COD_VIA": 785200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "VILLAAMIL",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 75,
+		"PAR_MIN": 2,
+		"PAR_MAX": 90
+	},
+	{
+		"COD_VIA": 790200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LA",
+		"VIA_NOMBRE": "VINCA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 11,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 790700,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "VIÑA VIRGEN",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 7,
+		"PAR_MIN": 2,
+		"PAR_MAX": 12
+	},
+	{
+		"COD_VIA": 798400,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "VIZCAINOS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 25,
+		"PAR_MIN": 2,
+		"PAR_MAX": 32
+	},
+	{
+		"COD_VIA": 799100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LOS",
+		"VIA_NOMBRE": "VOLUNTARIOS CATALANES",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 69,
+		"PAR_MIN": 2,
+		"PAR_MAX": 76
+	},
+	{
+		"COD_VIA": 799500,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "WAD-RAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 19,
+		"PAR_MIN": 2,
+		"PAR_MAX": 20
+	},
+	{
+		"COD_VIA": 801100,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DEL",
+		"VIA_NOMBRE": "YEROS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 35,
+		"PAR_MIN": 2,
+		"PAR_MAX": 14
+	},
+	{
+		"COD_VIA": 802800,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ZAMORA",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 39,
+		"PAR_MIN": 2,
+		"PAR_MAX": 50
+	},
+	{
+		"COD_VIA": 804300,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE",
+		"VIA_NOMBRE": "ZARZALEJO",
+		"IMPAR_MIN": "",
+		"IMPAR_MAX": "",
+		"PAR_MIN": "",
+		"PAR_MAX": ""
+	},
+	{
+		"COD_VIA": 805200,
+		"VIA_CLASE": "CALLE",
+		"VIA_PAR": "DE LAS",
+		"VIA_NOMBRE": "ZINIAS",
+		"IMPAR_MIN": 1,
+		"IMPAR_MAX": 9,
+		"PAR_MIN": 2,
+		"PAR_MAX": 8
+	}
+]
