@@ -32,7 +32,7 @@ app.get("/street", (req, res) => {
 	res.send(streets.splice(0, 3).map((option => `${option.VIA_CLASE} ${option.VIA_PAR} ${option.VIA_NOMBRE}`)));
 })
 app.get("/street/:streetName", (req, res) => {
-	let options = streets.filter(street => `${street.VIA_CLASE} ${street.VIA_NOMBRE}`.toLocaleLowerCase().includes(req.params.streetName.toLocaleLowerCase()) || `${street.VIA_CLASE} ${street.VIA_PAR} ${street.VIA_NOMBRE}`.toLocaleLowerCase().includes(req.params.streetName.toLocaleLowerCase()) || req.params.streetName.toLocaleLowerCase().includes(`${street.VIA_CLASE} ${street.VIA_NOMBRE}`.toLocaleLowerCase()) || req.params.streetName.toLocaleLowerCase().includes(`${street.VIA_CLASE} ${street.VIA_PAR} ${street.VIA_NOMBRE}`.toLocaleLowerCase()));
+	let options = streets.filter(street => `${street.VIA_CLASE} ${street.VIA_NOMBRE}`.toLocaleLowerCase().includes(req.params.streetName.toLocaleLowerCase()) || `${street.VIA_CLASE} ${street.VIA_PAR} ${street.VIA_NOMBRE}`.toLowerCase().includes(req.params.streetName.toLowerCase()) || req.params.streetName.toLowerCase().includes(`${street.VIA_CLASE} ${street.VIA_NOMBRE}`.toLowerCase()) || req.params.streetName.toLowerCase().includes(`${street.VIA_CLASE} ${street.VIA_PAR} ${street.VIA_NOMBRE}`.toLowerCase()));
 		let lastOption = options[options.length - 1];
 		options = options.map((option => `${option.VIA_CLASE} ${option.VIA_PAR} ${option.VIA_NOMBRE}`));
 		options.pop();
@@ -46,7 +46,6 @@ app.get("/street/:streetName", (req, res) => {
 			}
 		}
 	res.send(options.splice(0, 3));
-	
 })
 
 
