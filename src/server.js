@@ -14,6 +14,10 @@ app.get('/', (req, res) => {
 });
 app.get("/getStore/:id", (req, res) => {
 	let place = data.filter(place => place.place_id == req.params.id);
+	if (place) {
+		place[0].ocupation = Math.random() * 100;
+		console.log(place);
+	}
 	res.send(place ? place[0] : {})
 })
 app.get("/getStores/:lat/:lon/:category", (req, res) => {
