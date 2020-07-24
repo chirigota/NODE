@@ -5,8 +5,13 @@ const fs = require("fs");
 const app = express();
 const data = require("./data.json");
 const streets = require("./streets.json");
-const port = 3001;
+const path = require("path");
+const favicon = require("express-favicon");
+const port = process.env.PORT || 3001;
 //TOREMOVE
+
+app.use(express.static(path.join(__dirname, "../build")));
+app.use(favicon(__dirname + "../build/favicon.ico"));
 
 setInterval(() => {
 	fetch("https://spotashop.herokuapp.com/").then(d => console.log("Called"))
@@ -26,10 +31,6 @@ function getData() {
 }
 
 app.use(cors());
-app.get('/', (req, res) => {
-	res.send('Hello World!');
-	console.log("hola mundo");
-});
 app.get("/getStore/:id", async (req, res) => {
 	let place = data.filter(place => place.place_id == req.params.id);
 	if (place) {
