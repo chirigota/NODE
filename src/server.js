@@ -44,8 +44,10 @@ app.get("/getStores/:lat/:lon/:category", (req, res) => {
 			return { ...place, "distance": Math.pow(place.lat - req.params.lat, 2) + Math.pow(place.lng - req.params.lon, 2) };
 		});
 		if (coords) {
-			for (let i in coords)
+			for (let i in coords) {
 				coords[i].occupation = Math.random() * 100;
+				coords[i].rating = [Math.floor(Math.random() * 100), Math.floor(Math.random() * 100)]
+			}
 		}
 		res.send(coords.sort((a, b) => a.distance - b.distance).splice(0, 5));
 	} catch (e) {
